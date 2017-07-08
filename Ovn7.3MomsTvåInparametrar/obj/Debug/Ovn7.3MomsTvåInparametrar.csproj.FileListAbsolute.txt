@@ -1,0 +1,5 @@
+C:\Academy\projects_new\Ovn07.Metoder\Ovn7.3MomsTvåInparametrar\Ovn7.3MomsTvåInparametrar\bin\Debug\Ovn7.3MomsTvåInparametrar.exe.config
+C:\Academy\projects_new\Ovn07.Metoder\Ovn7.3MomsTvåInparametrar\Ovn7.3MomsTvåInparametrar\bin\Debug\Ovn7.3MomsTvåInparametrar.exe
+C:\Academy\projects_new\Ovn07.Metoder\Ovn7.3MomsTvåInparametrar\Ovn7.3MomsTvåInparametrar\bin\Debug\Ovn7.3MomsTvåInparametrar.pdb
+C:\Academy\projects_new\Ovn07.Metoder\Ovn7.3MomsTvåInparametrar\Ovn7.3MomsTvåInparametrar\obj\Debug\Ovn7.3MomsTvåInparametrar.exe
+C:\Academy\projects_new\Ovn07.Metoder\Ovn7.3MomsTvåInparametrar\Ovn7.3MomsTvåInparametrar\obj\Debug\Ovn7.3MomsTvåInparametrar.pdb
